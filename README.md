@@ -1,7 +1,7 @@
 # NexTech-fusion
 
 
- == Your software is OLD and to expensive == 💞️
+ == Your software is fat, inefficient and to expensive == 
 
 Nextech-fusion is a technology company dedicated to making businesses more efficient through the development of modern applications, AI integration, business analysis, web development, and more. We are passionate about leveraging the latest technologies to drive innovation and provide solutions that empower companies to thrive in the digital era.
 
